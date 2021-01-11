@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\EG\Documents\project\ComputerTest\main.cpp(21,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\EG\Documents\project\ComputerTest\main.cpp(26,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\EG\Documents\project\ComputerTest\main.cpp(31,20): warning C4018: '<': signed/unsigned 不相符
+  ComputerTest.vcxproj -> C:\Users\EG\Documents\project\ComputerTest\Debug\ComputerTest.exe

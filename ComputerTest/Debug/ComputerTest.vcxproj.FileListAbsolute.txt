@@ -1,0 +1,2 @@
+C:\Users\EG\Documents\project\ComputerTest\Debug\ComputerTest.exe
+C:\Users\EG\Documents\project\ComputerTest\Debug\ComputerTest.pdb
